@@ -1,7 +1,6 @@
 {
   "name": "cra-template-yacrat",
   "version": "0.1.0",
-  "private": true,
   "files": [
     "template",
     "template.json"
